@@ -1,11 +1,11 @@
-baseurl: /starter
+baseurl: /desmoines
 permalink: pretty
 markdown: kramdown
 paginate: 5
-repo: starter
+repo: desmoines
 github_org: maptime
 maptime:
-  chapter: Chapter name
+  chapter: MaptimeDSM
   twitter: TwitterHandle
   #disqus: YOUR DISQUS USERNAME
 
