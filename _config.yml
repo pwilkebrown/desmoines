@@ -6,7 +6,7 @@ repo: desmoines
 github_org: maptime
 maptime:
   chapter: MaptimeDSM
-  twitter: TwitterHandle
+  twitter: MaptimeDSM
   #disqus: YOUR DISQUS USERNAME
 
 gems:
